@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from config import API_TOKEN
 from button import *
 
-API_TOKEN = '6202655233:AAH3AjnumeZwiVJlwCW1mmh4gOe_99QZvo4'
+API_TOKEN = '6297117410:AAHg_HISeVxbfd3ZszjS5JZ4alRDP-x3WUk'
 
 
 logging.basicConfig(level=logging.INFO)
